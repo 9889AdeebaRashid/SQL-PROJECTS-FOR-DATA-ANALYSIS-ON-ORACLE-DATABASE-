@@ -18,6 +18,7 @@ c. Read BLOB column and fetch attribute details from the regular tag, nested col
 d. Create separate tables for blob attributes.
 e. Remove invalid records from order_items where shipment_id is not mapped.
 f. Map missing first name and last name with email id credentials.
+
 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀?
 Dataset Analysis is defined as manipulating or processing unstructured data or raw data to draw valuable insights and conclusions that will help derive critical decisions that will add some business value. The dataset analysis process is followed by organizing the dataset, transforming the dataset, visualizing the dataset, and finally modeling the dataset to derive predictions for solving the business problems, making informed decisions, and effectively planning for the future.
 
