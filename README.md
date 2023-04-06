@@ -66,3 +66,6 @@ It refers to a system for moving data from one system to another. The data may o
 ● Pivoting rows to columns using SQL queries. Pivoting rows to columns with joins using SQL queries.
 ● Understanding the concept of Data Wrangling and Online Shopping database.
 ● Perform Data Wrangling activities on the data.
+
+![image](https://user-images.githubusercontent.com/80636537/230445488-96052d9e-9d10-46bd-92c4-ead3ac065226.png)
+
