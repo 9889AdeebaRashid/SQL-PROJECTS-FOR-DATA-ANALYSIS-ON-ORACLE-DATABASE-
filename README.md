@@ -67,7 +67,8 @@ It refers to a system for moving data from one system to another. The data may o
 ● Understanding the concept of Data Wrangling and Online Shopping database.
 ● Perform Data Wrangling activities on the data.
 
-*Installation of Oracle Database*
+**Installation of Oracle Database**
+https://docs.google.com/document/d/1LDrXzWDwqLp4x5uLEz4i2inFQG7z5_vL/edit?usp=drivesdk&ouid=118041300348590541890&rtpof=true&sd=true
 
 ![image](https://user-images.githubusercontent.com/80636537/230445488-96052d9e-9d10-46bd-92c4-ead3ac065226.png)
 
